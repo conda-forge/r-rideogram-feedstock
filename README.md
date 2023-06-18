@@ -1,11 +1,11 @@
-About r-rideogram
-=================
+About r-rideogram-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rideogram-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=RIdeogram
 
 Package license: Artistic-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rideogram-feedstock/blob/main/LICENSE.txt)
 
 Summary: For whole-genome analysis, idiograms are virtually the most intuitive and effective way to map and visualize the genome-wide information. RIdeogram was developed to visualize and map whole-genome data on idiograms with no restriction of species.
 
